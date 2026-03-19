@@ -16,8 +16,8 @@ The Zaptec Platform connector enables monitoring of electric vehicle (EV) chargi
 
 This connector uses an HTTP connection and requires the following input during element creation:
 
-- **IP address/host**: The polling IP or URL of the destination.
-- **IP port**: The IP port of the destination.
+- **IP address/host**: The URL of the Zaptec Platform API.
+- **IP port**: The port used to connect to the Zaptec Platform API.
 
 ### Initialization
 
